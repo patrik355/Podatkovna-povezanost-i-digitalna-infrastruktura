@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Student>
+    <ime>Petar</ime>
+    <prezime>Horvat</prezime>
+    <jmbag>0246125577</jmbag>
+    <datum_rodenja>2001-04-27</datum_rodenja>
+    <godina_studija>3</godina_studija>
+    <Kontakt>
+        <email>phorvat@tvz.hr</email>
+        <telefon>0953634050</telefon>
+    </Kontakt>
+    <Popis_kolegija>
+        <kolegij>
+            <naziv>Baze podataka</naziv>
+            <profesor>Ivan Ivic</profesor>
+            <ects_bodovi>5</ects_bodovi>
+        </kolegij>
+        <kolegij>
+            <naziv>Programiranje</naziv>
+            <profesor>Luka Lukic</profesor>
+            <ects_bodovi>6</ects_bodovi>
+        </kolegij>
+        <kolegij>
+            <naziv>Mreze racunala</naziv>
+            <profesor>Marija Maric</profesor>
+            <ects_bodovi>4</ects_bodovi>
+        </kolegij>
+    </Popis_kolegija>
+</Student>

@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--XML dokument za knjižnice prema zadanoj tablici-->
+<Knjiznice>
+    <Knjiznica vrsta="Gradska">
+        <adresa>Ilica 20</adresa>
+        <grad>Zagreb</grad>
+        <Knjiga>
+            <naziv>Na Drini ćuprija</naziv>
+            <autor>Ivo Andrić</autor>
+            <godina>1945</godina>
+            <zanr>Roman</zanr>
+            <primjerci>5</primjerci>
+        </Knjiga>
+    </Knjiznica>
+        <Knjiznica vrsta="Gradska">
+        <adresa>Ilica 20</adresa>
+        <grad>Zagreb</grad>
+        <Knjiga>
+            <naziv>Zločin i kazna</naziv>
+            <autor>Fjodor Dostojevski</autor>
+            <godina>1866</godina>
+            <zanr>Roman</zanr>
+            <primjerci>3</primjerci>
+        </Knjiga>
+    </Knjiznica>
+    <!--Fakultetska knjižnica-->
+    <Knjiznica vrsta="Fakultetska">
+        <adresa>Vukovarska 58</adresa>
+        <grad>Split</grad>
+        <Knjiga>
+            <naziv>C Programiranje</naziv>
+            <autor>Brian Keringhan</autor>
+            <godina>1988</godina>
+            <zanr>Informatika</zanr>
+            <primjerci>7</primjerci>
+        </Knjiga>
+    </Knjiznica>
+        <Knjiznica vrsta="Fakultetska">
+        <adresa>Vukovarska 58</adresa>
+        <grad>Split</grad>
+        <Knjiga>
+            <naziv>Uvod u algoritme</naziv>
+            <autor>Thomas Cormen</autor>
+            <godina>2009</godina>
+            <zanr>Informatika</zanr>
+            <primjerci>4</primjerci>
+        </Knjiga>
+    </Knjiznica>
+        <Knjiznica vrsta="Fakultetska">
+        <adresa>Vukovarska 58</adresa>
+        <grad>Split</grad>
+        <Knjiga>
+            <naziv>Hamlet</naziv>
+            <autor>William Shakespeare</autor>
+            <godina>1603</godina>
+            <zanr>Drama</zanr>
+            <primjerci>6</primjerci>
+        </Knjiga>
+    </Knjiznica>
+</Knjiznice>
+<!--Zadatak odrađen-->

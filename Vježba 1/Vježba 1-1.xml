@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Student>
+    <ime>Luka</ime>
+    <prezime>Horvat</prezime>
+    <jmbag>0246112233</jmbag>
+    <godina_studija>2.</godina_studija>
+    <studijski_program>Informatika</studijski_program>
+    <Adresa>
+        <ulica>Trg bana Jopsipa Jelacica 6</ulica>
+        <grad>Zagreb</grad>
+        <postanski_broj>10 000</postanski_broj>
+    </Adresa>
+</Student>

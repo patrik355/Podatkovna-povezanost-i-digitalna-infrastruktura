@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Narudzba>
+    <Ime>Patrik</Ime>
+    <Prezime>Poldrugač</Prezime>
+    <MjestoStanovanja>
+        <Adresa>Trg bana Josipa Jelačića 8</Adresa>
+        <Grad>Zagreb</Grad>
+        <Drzava>Hrvatska</Drzava>
+    </MjestoStanovanja>
+    <NaruceniArtikl>
+        <Naziv>Laptop</Naziv>
+        <Kolicina>1</Kolicina>
+        <Cijena>1899.99</Cijena>
+    </NaruceniArtikl>
+</Narudzba>

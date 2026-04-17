@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Osoba spol="M">
+    <Ime>Patrik</Ime>
+    <Prezime>Poldrugač</Prezime>
+    <MjestoStanovanja>
+        <Adresa>Trg bana Josipa Jelačića 8</Adresa>
+        <Grad>Zagreb</Grad>
+        <Drzava>Hrvatska</Drzava>
+    </MjestoStanovanja>
+    <Kontakt>
+        <Mobitel>0911234567</Mobitel>
+        <KucniTelefon>021123456</KucniTelefon>
+        <Email>ppoldruga@tvz.hr</Email>
+    </Kontakt>
+</Osoba>

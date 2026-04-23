@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="4-1.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<osoba>
+    <ime>Patrik</ime>
+    <cijena>5.5</cijena>
+    <godine>45</godine>
+    <aktivan>true</aktivan>
+    <datumRodjenja>2000-07-12</datumRodjenja>
+    <vrijemePocetka>19:00:00</vrijemePocetka>
+</osoba>

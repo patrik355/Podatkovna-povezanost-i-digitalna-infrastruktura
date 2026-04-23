@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="4-2.xsd" type="application/xml" schematypens="http://www.w3.org/2001/XMLSchema"?>
+<narudzba>
+    <kupac>Patrik</kupac>
+    <datumNarudzbe>2026-04-23</datumNarudzbe>
+    <kolicina>15</kolicina>
+    <statusNarudzbe>zaprimljena</statusNarudzbe>
+    <ukupanIznos valuta="EUR">150</ukupanIznos>
+</narudzba>
